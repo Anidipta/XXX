@@ -4,4 +4,3 @@ numpy
 matplotlib
 ultralytics
 opencv-python
-Pillow
