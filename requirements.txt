@@ -4,3 +4,4 @@ numpy
 matplotlib
 ultralytics
 opencv-python
+cv2
