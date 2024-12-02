@@ -4,5 +4,4 @@ numpy
 matplotlib
 ultralytics
 opencv-python
-cv2
 os-sys
