@@ -101,7 +101,7 @@ conf_threshold = st.sidebar.slider("Confidence Threshold", 0.0, 1.0, 0.5)
 task = st.sidebar.selectbox("Choose Task", ["Image", "Video", "Webcam"])
 
 # Load the model
-model = load_model("YOLO11x-seg")
+model = load_model("yolo11x-seg.pt")
 
 # Task selection
 if task == "Image":
